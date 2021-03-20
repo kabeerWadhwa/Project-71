@@ -1,6 +1,5 @@
 import * as React from 'react'
 import {Text, View, StyleSheet, Image, TextInput, Button} from 'react-native'
-import firebase from 'firebase'
 
 export default class WriteStoryScreen extends React.Component{
     constructor(){
